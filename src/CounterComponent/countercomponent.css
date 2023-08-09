@@ -1,0 +1,20 @@
+.headerTitle{
+    font-size: 22px;
+    font-family: roboto;
+}
+
+.buttonContainer{
+    border-radius: 7px;
+    background: none;
+    column-gap: 20px;
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+
+.buttonContainer button{
+    border-radius: 7px;
+    background: none;
+    font-size: 12px;
+    border: 1px solid #0076CE;
+}

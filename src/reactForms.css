@@ -1,0 +1,11 @@
+.individualBox:hover {
+    transform: scale(1.08);
+    cursor: pointer;
+}
+
+.navItem:hover{
+    cursor: pointer;
+    background: #fff;
+    color: #000;
+    text-decoration: none;
+}
