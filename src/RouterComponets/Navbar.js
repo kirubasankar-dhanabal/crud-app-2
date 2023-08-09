@@ -14,7 +14,7 @@ const Navbar = () => {
                 <ul style={{
                     listStyle: 'none', display: 'flex',
                     columnGap: 20, margin: 16, paddingLeft: 0,
-                    fontSize: 16
+                    fontSize: 14
                 }}>
                     <li className="navItem"><Link to='/home' style={{ textDecoration: 'none' }}>Home</Link></li>
                     <li className="navItem"><Link to='/personaldetails' style={{ textDecoration: 'none' }}>Personal Details</Link></li>
